@@ -5,7 +5,7 @@ Browser simon game made with HTML5 CSS3 and jQuery.
 
 ## Demo
 
-![alt text](https://github.com/Mythyndian/dice-game/blob/main/simon-game-demo.png?raw=true)
+![alt text](https://github.com/Mythyndian/simon-game/blob/main/simon-game-demo.png?raw=true)
 
 
 ## Installation
